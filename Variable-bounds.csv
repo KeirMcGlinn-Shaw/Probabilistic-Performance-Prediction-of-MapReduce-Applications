@@ -1,0 +1,40 @@
+variable,category,low-bound,up-bound,measure,low-bound-label-val,up-bound-label-val
+HBW,Low,0,4,Mbps,0,6
+HBW,Medium,,,Mbps,,
+HBW,High,8,12,Mbps,6,12
+HTT,Low,0,118,Milliseconds,0,178
+HTT,Medium,,,Milliseconds,,
+HTT,High,237,355,Milliseconds,178,355
+MMIPS,Low,651992,751378,Million instructions per second,0,750000
+MMIPS,Medium,751378,850467,Million instructions per second,750000,850000
+MMIPS,High,850467,949556,Million instructions per second,850000,949556
+MET,Low,765,1003,Milliseconds,0,1000
+MET,Medium,1003,1241,Milliseconds,1000,1250
+MET,High,1241,1479,Milliseconds,1250,1479
+MBW,Low,1,11,Mbps,0,11
+MBW,Medium,11,20,Mbps,11,20
+MBW,High,20,30,Mbps,20,30
+MTT,Low,2,18,Milliseconds,0,18
+MTT,Medium,18,35,Milliseconds,18,35
+MTT,High,35,51,Milliseconds,,
+RMIPS,Low,149586,287968,Million instructions per second,,
+RMIPS,Medium,287968,425936,Million instructions per second,,
+RMIPS,High,425936,563904,Million instructions per second,,
+RET,Low,120,240,Milliseconds,,
+RET,Medium,,,Milliseconds,,
+RET,High,360,480,Milliseconds,,
+RBW,Low,4,53,Mbps,,
+RBW,Medium,,,Mbps,,
+RBW,High,101,150,Mbps,,
+RTT,Low,6,88,Milliseconds,,
+RTT,Medium,88,169,Milliseconds,,
+RTT,High,169,250,Milliseconds,,
+BBW,Low,0,17,Mbps,,
+BBW,Medium,,,Mbps,,
+BBW,High,33,50,Mbps,,
+BTT,Low,0,90,Milliseconds,,
+BTT,Medium,,,Milliseconds,,
+BTT,High,180,270,Milliseconds,,
+TT,Low,1006,1626,Milliseconds,,
+TT,Medium,1626,2245,Milliseconds,,
+TT,High,2245,2864,Milliseconds,,
